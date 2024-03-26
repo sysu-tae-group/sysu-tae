@@ -1,3 +1,4 @@
-http://example.com/2024/03/26/test/
+http://example.com/2024/03/26/Members/
+http://example.com/2024/03/26/Publications/
 http://example.com/2024/03/26/hello-world/
 http://example.com/
